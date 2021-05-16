@@ -1,0 +1,1 @@
+4/ Lập trình Objects theo chuẩn ES5 -> ES6
