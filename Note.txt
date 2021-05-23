@@ -1,1 +1,2 @@
 4/ Lập trình Objects theo chuẩn ES5 -> ES6
+update thuộc tính của object có cách nào update trực tiếp không cần xóa rồi tạo mới lại không?
